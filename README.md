@@ -1,5 +1,3 @@
 # my-webpageadded new line
 
-## created a update-readme branch
-
-updated locally update branch
+deleted 2 lines and added 1 newline before rebase
